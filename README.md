@@ -8,6 +8,8 @@ object-oriented programming principles.
 - Add student information
 - Display student records
 - Demonstrates use of classes and objects
+- Menu-driven user interface
+- Supports multiple student records
 
 ## Technologies Used
 - C++
